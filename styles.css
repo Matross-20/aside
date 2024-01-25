@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+h1, h2, p{
+ text-align: center; 
+ font-family: 'Orbitron', sans-serif;   
+}
+.parent{
+background-size: cover;
+min-height: 150vh;
+z-index:99;
+background-image:url(tumblr_55e0fee136f48a4d9df49643fa894289_17fda1e2_500.gif);
+}
+.one{
+padding: 10px;  
+color: aqua; 
+image-orientation: center; 
+}
+h3{
+font-family: 'Orbitron', sans-serif;  
+}
+.course-one{
+height: 525px;
+display: inline-block;
+width: 275px;
+background-color: rosybrown;
+border-radius: 7px;
+text-align: center;
+background-image: url(ai.jpg);
+color: yellow;
+margin: 15px;
+float: left;
+}
+.course-two{
+    height: 525px;
+    display: inline-block;
+    width: 275px;
+    background-color: rosybrown;
+    border-radius: 7px;
+    text-align: center; 
+    color: yellow;
+    margin: 15px;
+    float: left;
+}     
+.course-three{
+    height: 525px;
+    display: inline-block;
+    width: 275px;
+    background-color: red;
+    border-radius: 7px;
+    text-align: center;
+    color: yellow;
+    margin: 15px;
+    float: left;
+    }
+.Careers{
+ text-align: left;
+ font-family: 'Orbitron', sans-serif;  
+}
+h4{
+font-family: 'Orbitron', sans-serif;    
+}
+.first row of courses{
+    display: inline-block;
+    align-items: start;
+}
